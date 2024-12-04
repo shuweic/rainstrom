@@ -24,9 +24,9 @@ Rainstrom, a simple Storm-like streaming processing system, CS 425 MP4, implemen
 To build the Crane project, we will go to the `driver` directory and `supervisor` directory to build separately. Just run
 
 ```shell
-$ cd ./core/driver
+$ cd rainstrom/core/driver
 $ go build
-$ cd ./core/supervisor
+$ cd cd ../supervisor
 $ go build
 ```
 
