@@ -1,6 +1,6 @@
-# crane
+# Rainstrom
 
-Crane, a simple Storm-like streaming processing system, CS 425 MP4, implemented by Grp#29 Baohe Zhang & Kechen Lu. It implemented a Storm-like system, which includes spout-bolt task distribution-running and reliability schemes for failover. It also integrates the SDFS to having input files or results to be availible for all nodes in the cluster.
+Rainstrom, a simple Storm-like streaming processing system, CS 425 MP4, implemented by Grp#87 Shuwei Cui. It implemented a Storm-like system, which includes spout-bolt task distribution-running and reliability schemes for failover. It also integrates the SDFS to having input files or results to be availible for all nodes in the cluster.
 
 ## Project Info
 
